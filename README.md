@@ -16,11 +16,7 @@ To be continued...
 
 Oh boy.
 
-![](https://raw.githubusercontent.com/wikichen/resume/master/archive/png/resume-20100501.png)
-
-![](https://raw.githubusercontent.com/wikichen/resume/master/archive/png/resume-20101003.png)
-
-![](https://raw.githubusercontent.com/wikichen/resume/master/archive/png/resume-20110127.png)
+![](https://raw.githubusercontent.com/wikichen/resume/master/archive/png/resume-2010-2011.png)
 
 ![](https://raw.githubusercontent.com/wikichen/resume/master/archive/png/resume-20111003.png)
 
