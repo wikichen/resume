@@ -12,17 +12,17 @@ You can [download my current resume here](https://github.com/wikichen/resume/raw
 To be continued...
 
 
-### 2010-2011 (The Mellon-choly Years)
+### 2010 (The First Year)
 
-Oh boy.
+![](https://raw.githubusercontent.com/wikichen/resume/master/archive/png/resume-20101003.png)
 
-![](https://raw.githubusercontent.com/wikichen/resume/master/archive/png/resume-2010-2011.png)
+### 2011 (The Mellon-choly Year)
 
 ![](https://raw.githubusercontent.com/wikichen/resume/master/archive/png/resume-20111003.png)
 
 ### 2012 (The Lost Year)
 
-(Nothing. I swore off jobs. Traveled. Hustled. Lived. Failed.)
+(Nothing. I swore off jobs. Traveled. Hustled. Lived. Founded. Failed.)
 
 ### 2013 (The Renaissance Year)
 
