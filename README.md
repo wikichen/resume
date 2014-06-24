@@ -1,7 +1,7 @@
 Résumé
 ======
 
-You can [download my current resume here](resume.pdf).
+You can [download my current resume here](https://github.com/wikichen/resume/raw/master/resume.pdf).
 
 ![Resume](resume.png)
 
